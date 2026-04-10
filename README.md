@@ -39,6 +39,10 @@
 ## 📂 Projects
 
 ### 🔹 Portfolio Website
+### *intership finder
+### *student portal
+### *fakenews detector
+### * blood donation details
 
 * Personal portfolio hosted using GitHub Pages
 
