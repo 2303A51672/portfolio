@@ -2,15 +2,14 @@
 
 🎓 B.Tech CSE Student (2023–2027)
 💻 Aspiring **DevOps & Cloud Engineer**
-🚀 Passionate about building and learning modern technologies
+🚀 Passionate about Cloud, DevOps & Software Development
 
 ---
 
 ## 🚀 About Me
 
-* 🌱 Currently learning **DevOps, AWS & Docker**
+* 🌱 Currently learning **Linux, AWS, Docker & DevOps**
 * 💡 Interested in **Cloud Computing & Automation**
-* 🛠️ Love working with **DSA & problem solving**
 * 📫 Reach me: **[manidharyadav225@gmail.com](mailto:manidharyadav225@gmail.com)**
 
 ---
@@ -33,21 +32,43 @@
 ### 🌐 Web
 
 * HTML
+* CSS
+* JavaScript
 
 ---
 
 ## 📂 Projects
 
+### 🔹 Internship Finder
+
+* Web platform to help students find internships easily
+* Features: Search and explore opportunities
+
+---
+
+### 🔹 Student Portal
+
+* System to manage student data and academic details
+* Features: Login and data management
+
+---
+
+### 🔹 Fake News Detector
+
+* Frontend-based project to analyze and display news content
+* Built using HTML, CSS, and JavaScript
+
+---
+
 ### 🔹 Portfolio Website
-### *intership finder
-### *student portal
-### *fakenews detector
-### * blood donation details
 
 * Personal portfolio hosted using GitHub Pages
 
+---
+
 ## 🏆 Certifications
 
+* DevOps & Cloud Automation Virtual Internship
 * AI/ML Virtual Internship – AICTE
 * Cloud Virtual Internship – Juniper Networks
 
@@ -57,18 +78,6 @@
 
 * 🔗 GitHub: https://github.com/2303A51672
 * 🔗 LinkedIn: https://www.linkedin.com/in/manidhar-yadav-361519321
-
----
-
-## 📊 GitHub Stats
-
-![Manidhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=2303A51672\&show_icons=true\&theme=tokyonight)
-
----
-
-## 🔥 Streak Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=2303A51672\&theme=tokyonight)
 
 ---
 
